@@ -1,0 +1,15 @@
+/* style.css */
+
+h1 {
+    text-align: center;
+    color: purple;
+}
+
+a:visited {
+    color: green;
+}
+
+img {
+    height: auto;
+    width: 300px;
+}
